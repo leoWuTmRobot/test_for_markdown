@@ -21,7 +21,7 @@ hello world<br/>
 ## 影片說明
 
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/Qi0LJYY_7FU" title="OMRON TM ROBOT TUTORIAL | HOW TO READ/WRITE VARIABLES VIA MODBUS TCP ON TMFLOW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video Click Me](https://www.youtube.com/watch?v=Qi0LJYY_7FU)
 
 
 
